@@ -908,5 +908,5 @@ tile.analyzerActive.name=Analysator
 tile.cultureVatActive.name=Kultivierungsbehälter
 tile.workbenchActive.name=Archeologie Werkbank
 tile.sifterActive.name=Sieb
-tile.anu_portal.name=Portal to the Lair of Darkness
-item.fossilSeed.horsetail.name=Fossilized Horsetail Spores
+tile.anu_portal.name=Portal zur Höhle der Dunkelheit
+item.fossilSeed.horsetail.name=Versteinerte Schachtelhalm Sporen
